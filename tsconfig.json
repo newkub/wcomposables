@@ -39,7 +39,7 @@
     "jsx": "preserve",
     
     // Types
-    "types": ["@types/node"]
+    "types": []
   },
   "include": [
     "src/**/*"
